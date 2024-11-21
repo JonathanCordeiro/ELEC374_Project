@@ -2,7 +2,7 @@
 
 The CPU design project uses Field Programmable Gate Array (FPGA) devices and associated CAD tools, as well as GPU computing through nVidia CUDA or OpenCL languages.
 
-## This repository contains a collection of Verilog modules and testbenches, primarily focused on arithmetic and data processing components. Below is an overview of the files and their purpose:
+This repository contains a collection of Verilog modules and testbenches, primarily focused on arithmetic and data processing components. Below is an overview of the files and their purpose.
 
 ## Files and Description
 ### Arithmetic Units
