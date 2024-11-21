@@ -6,29 +6,29 @@ This repository contains a collection of Verilog modules and testbenches, primar
 
 ## Files and Description
 ### Arithmetic Units
-ALU.v: Arithmetic Logic Unit module.
-BoothsAlgorithim.v: Booth's Multiplication Algorithm implementation.
-FourBitAdder.v: 4-bit adder module.
-SixteenBitAdder.v: 16-bit adder module.
-NonRestoringDivision.v: Non-restoring division module.
-carrylookaheadlogic.v: Carry lookahead logic for fast addition.
-lookaheadadder.v: Lookahead adder implementation.
-thirtyTwoBitAdder.v: 32-bit adder module.
+- ALU.v: Arithmetic Logic Unit module.
+- BoothsAlgorithim.v: Booth's Multiplication Algorithm implementation.
+- FourBitAdder.v: 4-bit adder module.
+- SixteenBitAdder.v: 16-bit adder module.
+- NonRestoringDivision.v: Non-restoring division module.
+- carrylookaheadlogic.v: Carry lookahead logic for fast addition.
+- lookaheadadder.v: Lookahead adder implementation.
+- thirtyTwoBitAdder.v: 32-bit adder module.
 
 ### Data Path and Register Units
-datapath.v: Data path implementation for connecting arithmetic and logic components.
-register.v: Basic register module.
-MDR.v: Memory Data Register (MDR) module.
+- datapath.v: Data path implementation for connecting arithmetic and logic components.
+- register.v: Basic register module.
+- MDR.v: Memory Data Register (MDR) module.
 
 ### Multiplexers
-ZMux.v: Multiplexer for handling control signals and data paths.
+- ZMux.v: Multiplexer for handling control signals and data paths.
 
 ### Miscellaneous
-bus.v: Implementation of a bus for connecting different components in the design.
-boothmult.v: Booth multiplier implementation.
+- bus.v: Implementation of a bus for connecting different components in the design.
+- boothmult.v: Booth multiplier implementation.
 
 ### Testbenches
-and_tb.v: Testbench for verifying and gate functionality.
+- and_tb.v: Testbench for verifying and gate functionality.
 
 
 ## Usage
